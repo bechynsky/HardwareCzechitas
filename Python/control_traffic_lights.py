@@ -1,7 +1,8 @@
 import serial
 import time
 
-with serial.Serial('COM9', 9600) as s:
+# Check serial port
+with serial.Serial('COM7', 9600) as s:
     while(1):
         s.write(b'0')
         s.flush()

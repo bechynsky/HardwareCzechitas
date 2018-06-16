@@ -1,6 +1,7 @@
 import serial
 import time
 
+# Check serial port
 s = serial.Serial('COM9', 9600)
 
 with open("temperature.csv", "w") as f:

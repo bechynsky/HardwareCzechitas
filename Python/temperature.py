@@ -1,7 +1,7 @@
 import serial
-import time
 
-s = serial.Serial('COM9', 9600)
+# Check serial port
+s = serial.Serial('COM7', 9600)
 
 while True:
     print(s.readline().strip())
