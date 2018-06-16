@@ -54,7 +54,7 @@ void updateLight(unsigned char state) {
 }
 
 int main() {
-	unsigned char state = 0;
+	unsigned char state = RED;
 	updateLight(state);
 	state = newState(state);
 	
