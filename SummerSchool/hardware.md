@@ -54,4 +54,5 @@ We can connect more sensors or actuators.
 ## What to do next
 
 * Run code in space [Astro Pi](https://astro-pi.org/)
+  * [Simulator](https://trinket.io/sense-hat)
 
