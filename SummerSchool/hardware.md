@@ -51,7 +51,7 @@ We can connect more sensors or actuators.
 
 * [Screw Terminal](http://wiki.seeedstudio.com/Grove-Screw_Terminal/)
 
-## What do do next
+## What to do next
 
-* [Astro Pi](https://astro-pi.org/)
+* Run code in space [Astro Pi](https://astro-pi.org/)
 
