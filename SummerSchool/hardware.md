@@ -44,6 +44,8 @@ Based on first come first get.
 * [Infrared Emitter](http://wiki.seeedstudio.com/Grove-Infrared_Emitter/)
 * [Temperature&Humidity Sensor](http://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)
 * [Ear-clip Heart Rate Sensor](http://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/)
+* [2-Channel Solid State Relay](http://wiki.seeedstudio.com/Grove-2-Channel_Solid_State_Relay/)
+* [Serial Bluetooth v3.0](http://wiki.seeedstudio.com/Grove-Serial_Bluetooth_v3.0/)
 
 ## Something special?
 
