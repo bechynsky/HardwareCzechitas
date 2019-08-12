@@ -2,6 +2,12 @@
 
 This is list of hardware you can use for Hackathon project. We use [Seeed Studio Grove kit](http://wiki.seeedstudio.com/Grove_System/).
 
+## Arduino Uno WiFi Rev. 2 (2x)
+
+Each team gets [Arduino Uno WiFi Rev. 2](https://www.arduino.cc/en/Guide/ArduinoUnoWiFiRev2). This board supports internet connectivity using Wifi.
+
+For WiFi connectivity you will need [WiFiNINA library](https://www.arduino.cc/en/Reference/WiFiNINA).
+
 ## Basic box (2x)
 
 Box is available for each team.
