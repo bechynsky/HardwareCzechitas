@@ -8,6 +8,8 @@ Each team gets [Arduino Uno WiFi Rev. 2](https://www.arduino.cc/en/Guide/Arduino
 
 For WiFi connectivity you will need [WiFiNINA library](https://www.arduino.cc/en/Reference/WiFiNINA).
 
+Simple [demo](https://github.com/bechynsky/IFTTT101) how to connect to [IFTTT Webhook](https://ifttt.com/maker_webhooks).
+
 ## Basic box (2x)
 
 Box is available for each team.
