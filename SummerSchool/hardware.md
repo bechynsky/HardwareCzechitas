@@ -4,11 +4,11 @@ This is list of hardware you can use for Hackathon project. We use [Seeed Studio
 
 ## Arduino Uno WiFi Rev. 2 (2x)
 
-Each team gets [Arduino Uno WiFi Rev. 2](https://www.arduino.cc/en/Guide/ArduinoUnoWiFiRev2). This board supports internet connectivity using Wifi.
+Each team gets [Arduino Uno WiFi Rev. 2](https://www.arduino.cc/en/Guide/ArduinoUnoWiFiRev2). This board supports internet connectivity using WiFi.
 
 For WiFi connectivity you will need [WiFiNINA library](https://www.arduino.cc/en/Reference/WiFiNINA).
 
-Simple [demo](https://github.com/bechynsky/IFTTT101) how to connect to [IFTTT Webhook](https://ifttt.com/maker_webhooks).
+Simple [demo](https://github.com/bechynsky/IFTTT101) how to connect to [IFTTT Webhooks](https://ifttt.com/maker_webhooks).
 
 ## Basic box (2x)
 
