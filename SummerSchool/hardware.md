@@ -92,9 +92,3 @@ Based on first come first get.
 We can connect more sensors or actuators.
 
 * [Screw Terminal](http://wiki.seeedstudio.com/Grove-Screw_Terminal/)
-
-## What to do next
-
-* Run code in space [Astro Pi](https://astro-pi.org/)
-  * [Simulator](https://trinket.io/sense-hat)
-
