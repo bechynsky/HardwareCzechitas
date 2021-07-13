@@ -15,7 +15,7 @@ Simple [demo](https://github.com/bechynsky/IFTTT101) how to connect to [IFTTT We
 * [Seeeduino Nano](https://wiki.seeedstudio.com/Seeeduino-Nano/) with [Grove Shield for Arduino Nano](https://wiki.seeedstudio.com/Grove_Shield_for_Arduino_Nano/) 2x
 * [Seeeduino Lotus Cortex-M0+](https://wiki.seeedstudio.com/Seeeduino_Lotus_Cortex-M0-/)
 
-## Raspberri Pi 2
+## Raspberry Pi 2
 
 * [Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)
 
