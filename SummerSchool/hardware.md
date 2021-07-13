@@ -2,7 +2,8 @@
 
 This is list of hardware you can use for Hackathon project. We use [Seeed Studio Grove kit](http://wiki.seeedstudio.com/Grove_System/).
 
-## Arduino Uno WiFi Rev. 2 (2x)
+## Boards
+### Arduino Uno WiFi Rev. 2 (2x)
 
 Each team gets [Arduino Uno WiFi Rev. 2](https://www.arduino.cc/en/Guide/ArduinoUnoWiFiRev2). This board supports internet connectivity using WiFi.
 
@@ -10,19 +11,19 @@ For WiFi connectivity you will need [WiFiNINA library](https://www.arduino.cc/en
 
 Simple [demo](https://github.com/bechynsky/IFTTT101) how to connect to [IFTTT Webhooks](https://ifttt.com/maker_webhooks).
 
-## More Boards
+### More Boards
 
 * [Seeeduino Nano](https://wiki.seeedstudio.com/Seeeduino-Nano/) with [Grove Shield for Arduino Nano](https://wiki.seeedstudio.com/Grove_Shield_for_Arduino_Nano/) 2x
 * [Seeeduino Lotus Cortex-M0+](https://wiki.seeedstudio.com/Seeeduino_Lotus_Cortex-M0-/)
 
-## Raspberry Pi 2
+### Raspberry Pi 2
+
+*Not all sensors or acctuators are supported. Check documentation first.*
 
 * [Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)
 
 
 ## Basic box (2x)
-
-Box is available for each team.
 
 * [Base Shield](http://wiki.seeedstudio.com/Base_Shield_V2/)
 * [LCD RGB Backlight](http://wiki.seeedstudio.com/Grove-LCD_RGB_Backlight/)
