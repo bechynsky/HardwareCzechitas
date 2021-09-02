@@ -16,12 +16,12 @@ Simple [demo](https://github.com/bechynsky/IFTTT101) how to connect to [IFTTT We
 * [Seeeduino Nano](https://wiki.seeedstudio.com/Seeeduino-Nano/) with [Grove Shield for Arduino Nano](https://wiki.seeedstudio.com/Grove_Shield_for_Arduino_Nano/) 2x
 * [Seeeduino Lotus Cortex-M0+](https://wiki.seeedstudio.com/Seeeduino_Lotus_Cortex-M0-/)
 
-### Raspberry Pi 2
+### Raspberry Pi
 
 *Not all sensors or acctuators are supported. Check documentation first.*
 
 * [Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)
-
+* [Base Hat for Raspberry Pi Zero](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi_Zero/)
 
 ## Basic box (2x)
 
@@ -77,6 +77,8 @@ Based on first come first get.
 * [UV Sensor](https://wiki.seeedstudio.com/Grove-UV_Sensor/)
 * [LED Button Blue](https://wiki.seeedstudio.com/Grove-LED_Button/)
 * [VOC and eCO2 Gas Sensor(SGP30)](https://wiki.seeedstudio.com/Grove-VOC_and_eCO2_Gas_Sensor-SGP30/)
+* [Capacitive Moisture Sensor](https://wiki.seeedstudio.com/Grove-Capacitive_Moisture_Sensor-Corrosion-Resistant/)
+* [I2C Hub](https://wiki.seeedstudio.com/Grove-I2C_Hub/) 2x
 
 
 ## LED Strip
