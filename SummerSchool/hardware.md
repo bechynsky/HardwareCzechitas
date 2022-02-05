@@ -15,10 +15,11 @@ Simple [demo](https://github.com/bechynsky/IFTTT101) how to connect to [IFTTT We
 
 * [Seeeduino Nano](https://wiki.seeedstudio.com/Seeeduino-Nano/) with [Grove Shield for Arduino Nano](https://wiki.seeedstudio.com/Grove_Shield_for_Arduino_Nano/) 2x
 * [Seeeduino Lotus Cortex-M0+](https://wiki.seeedstudio.com/Seeeduino_Lotus_Cortex-M0-/)
+* [Wio Terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
 
 ### Raspberry Pi
 
-*Not all sensors or acctuators are supported. Check documentation first.*
+*Not all sensors or acctuators are supported. Check [grove.py](https://github.com/Seeed-Studio/grove.py) documentation first.*
 
 * [Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/)
 * [Base Hat for Raspberry Pi Zero](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi_Zero/)
@@ -56,7 +57,7 @@ Based on first come first get.
 * [RTC](http://wiki.seeedstudio.com/Grove-RTC/) Real Time Clock
 * [Moisture Sensor](http://wiki.seeedstudio.com/Grove-Moisture_Sensor/)
 * [Gas Sensor(MQ3)](http://wiki.seeedstudio.com/Grove-Gas_Sensor-MQ3/) detecting Alcohol, Benzine, CH4, Hexane, LPG, CO.
-* [4-Digit Display](http://wiki.seeedstudio.com/Grove-4-Digit_Display/)
+* [4-Digit Display](http://wiki.seeedstudio.com/Grove-4-Digit_Display/) 2x
 * [Temperature&Humidity Sensor High Accuracy](http://wiki.seeedstudio.com/Grove-TemptureAndHumidity_Sensor-High-Accuracy_AndMini-v1.0/)
 * [Infrared Receiver](http://wiki.seeedstudio.com/Grove-Infrared_Receiver/) is used to receive infrared signals and also used for remote control detection.
 * [Flame Sensor](http://wiki.seeedstudio.com/Grove-Flame_Sensor/) can be used to detect fire source.
@@ -67,7 +68,7 @@ Based on first come first get.
 * [Serial Bluetooth v3.0](http://wiki.seeedstudio.com/Grove-Serial_Bluetooth_v3.0/)
 * [TDS Sensor](https://wiki.seeedstudio.com/Grove-TDS-Sensor/) detects the Total Dissolved Solids (TDS) levels in the water which can be used to indicate the water quality.
 * [LoRa Radio](https://wiki.seeedstudio.com/Grove_LoRa_Radio/)
-* [Dual Button](https://wiki.seeedstudio.com/Grove-Dual-Button/) 2x
+* [Dual Button](https://wiki.seeedstudio.com/Grove-Dual-Button/) 4x
 * [16x2 LCD (White on Blue)](https://wiki.seeedstudio.com/Grove-16x2_LCD_Series/)
 * [Laser PM2.5 Sensor](https://wiki.seeedstudio.com/Grove-Laser_PM2.5_Sensor-HM3301/) is laser dust detection sensor.
 * [Round Force Sensor](https://wiki.seeedstudio.com/Grove-Round_Force_Sensor_FSR402/)
@@ -79,6 +80,15 @@ Based on first come first get.
 * [VOC and eCO2 Gas Sensor(SGP30)](https://wiki.seeedstudio.com/Grove-VOC_and_eCO2_Gas_Sensor-SGP30/)
 * [Capacitive Moisture Sensor](https://wiki.seeedstudio.com/Grove-Capacitive_Moisture_Sensor-Corrosion-Resistant/)
 * [I2C Hub](https://wiki.seeedstudio.com/Grove-I2C_Hub/) 2x
+* [Switch(P)](https://wiki.seeedstudio.com/Grove-Switch-P/)
+* Multi Color Flash LED (5mm)
+* [3-Axis Digital Accelerometer(±1.5g)](https://wiki.seeedstudio.com/Grove-3-Axis_Digital_Accelerometer-1.5g/)
+* [Gas Sensor V2(Multichannel)](https://wiki.seeedstudio.com/Grove-Multichannel-Gas-Sensor-V2/)
+* [LED Bar](https://wiki.seeedstudio.com/Grove-LED_Bar/)
+* [Turbidity Sensor](https://wiki.seeedstudio.com/Grove-Turbidity-Sensor-Meter-for-Arduino-V1.0/)
+* [Tilt Switch](https://wiki.seeedstudio.com/Grove-Tilt_Switch/)
+* [8 Channel I2C Multiplexer/I2C Hub](https://wiki.seeedstudio.com/Grove-8-Channel-I2C-Multiplexer-I2C-Hub-TCA9548A/)
+* [Sunlight Sensor](https://wiki.seeedstudio.com/Grove-Sunlight_Sensor/)
 
 
 ## LED Strip
@@ -89,6 +99,7 @@ Based on first come first get.
 * [RGB LED Ring (16-WS2813 Mini)](https://www.seeedstudio.com/Grove-RGB-LED-Ring-16-WS2813-Mini-p-4201.html)
 * [RGB LED Stick (10 - WS2813 Mini)](https://wiki.seeedstudio.com/Grove-RGB_LED_Stick-10-WS2813_Mini/) 2x
 * [RGB LED Stick (20-WS2813 Mini)](https://www.seeedstudio.com/Grove-RGB-LED-Stick-20-WS2813-Mini-p-4271.html) 2x
+* WS2813 RGB LED Strip Waterproof - 30 LED/m - 1m
 
 ## Something special?
 
